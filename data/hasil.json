@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2018-11-01 19:59:51",
+        "total_suara": 3,
+        "total_pemilih": 4,
+        "total_kandidat": 1,
+        "kandidat": {
+            "kandidat_1": {
+                "id": "1",
+                "nama": "Yunus",
+                "kelas": "11 RPL",
+                "fbid": "100003327982245",
+                "bio": "vqnvnvjkqvbqwwg hjncjcbnwbqnvqwhfbcihwnvibvuheb whjnavb wu",
+                "suara": 3
+            }
+        }
+    }
+]

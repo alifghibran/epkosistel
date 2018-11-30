@@ -1,0 +1,36 @@
+{
+  "alert_redirecting": "Sedang mengalihkan. Harap tunggu...",
+  "alert_system_error": "Kesalahan Sistem! Harap coba kembali.",
+  "alert_access_code_validating": "Kami masih memproses kode pemilihan Anda. Harap tunggu...",
+  "alert_access_code_success": "Kode Pemilihan disetujui! Harap tunggu...",
+  "alert_session_expired": "Sesi Anda sudah habis! Sedang mengalihkan...",
+  "alert_session_timeout": "Maaf! Waktu Anda sudah habis. Jika Anda belum memilih kandidat, mohon untuk registrasi ulang ke panitia. Terimakasih.",
+  "alert_acces_denied": "Sesi Anda tidak dikenal! Sedang mengalihkan...",
+  "alert_vote_success": "Pemilihan Anda telah kami simpan. Terimakasih atas partisipasinya.",
+
+  "title_candidate": "Kandidat",
+  "title_candidate_sub": "Berikut adalah kandidat yang akan Anda pilih. %s dari %s peserta telah menggunakan hak pilihnya, dan hasilnya %s",
+  "title_vote_now": "Sekarang Giliranmu untuk Memilih!",
+  "title_vote_now_sub": "Inilah waktunya bagi Anda untuk memilih kandidat favorit Anda. Segera daftar ke panitia, lalu ketikkan Kode Pemilihan Anda di bawah ini.",
+  "title_voting": "Pilih Kandidatmu!",
+
+  "menu_home": "Beranda",
+  "menu_candidate": "Kandidat",
+  "menu_vote_now": "Pilih Sekarang!",
+
+  "label_access_code": "Ketik Kode Pemilihan Anda",
+
+  "btn_vote": "Pilih",
+
+  "text_updated_at": "telah dipublikasikan %s.",
+  "text_not_published": "belum dipublikasikan.",
+  "text_countdown": "Anda mempunyai waktu %s tersisa untuk memilih. Pastikan Anda memilih sesuai hati nurani Anda.",
+  "text_time_seconds": "detik",
+  "text_time_second": "detik",
+  "text_time_minutes": "menit",
+  "text_time_minute": "menit",
+  "text_time_separator": ",",
+  "text_candidate_empty": "Tak ada kandidat tersedia.",
+  "text_loading": "memuat...",
+  "text_confirm_vote_this": "Anda yakin memilih %s?"
+}

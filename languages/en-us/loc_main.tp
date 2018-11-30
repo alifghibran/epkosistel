@@ -1,0 +1,37 @@
+{
+  "alert_redirecting": "Redirecting. Please wait...",
+  "alert_system_error": "System Error! Please try again.",
+  "alert_access_code_validating": "We still processing your Voter's Code. Please wait...",
+  "alert_access_code_success": "Successfully registered. Please wait...",
+  "alert_session_expired": "Your session is expired! Redirecting...",
+  "alert_session_timeout": "Sorry! Your time limit is up. If you didn't vote, please re-register to admin. Thankyou.",
+  "alert_acces_denied": "Your session is invalid! Redirecting...",
+  "alert_vote_success": "Your vote has been saved. Thank you for your participation.",
+
+  "title_candidate": "Candidates",
+  "title_candidate_sub": "This is the candidates that will you vote. %s of %s participants has been voted, and the result %s",
+  "title_vote_now": "Now is Your Turn!",
+  "title_vote_now_sub": "It's time for you to vote the candidate. Register to admin, then type your Voter's Code below.",
+  "title_voting": "Choose your candidate!",
+
+  "menu_home": "Home",
+  "menu_candidate": "Candidate",
+  "menu_vote_now": "Vote Now!",
+  "menu_label_lang": "Change Language",
+
+  "label_access_code": "Type your Voter's Code",
+
+  "btn_vote": "Vote",
+
+  "text_updated_at": "was published %s.",
+  "text_not_published": "has not been published.",
+  "text_countdown": "You have %s left to vote. Make sure you choose the right candidate.",
+  "text_time_seconds": "seconds",
+  "text_time_second": "second",
+  "text_time_minutes": "minutes",
+  "text_time_minute": "minute",
+  "text_time_separator": " and",
+  "text_candidate_empty": "No candidate available.",
+  "text_loading": "loading...",
+  "text_confirm_vote_this": "Are you sure to vote %s?"
+}

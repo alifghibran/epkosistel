@@ -1,0 +1,36 @@
+{
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "time_on": "on",
+  "time_format": "h:i A",
+  "time_format_sec": "h:i:s A",
+  "ago_yesterday": "yesterday %s",
+  "ago_hours": "hours ago",
+  "ago_hour": "an hour ago",
+  "ago_minutes": "minutes ago",
+  "ago_minute": "a minute ago",
+  "ago_seconds": "seconds ago",
+  "ago_just_now": "just now",
+  "ago_long_at": "at %s"
+}

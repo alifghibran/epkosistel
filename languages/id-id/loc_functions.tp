@@ -1,0 +1,36 @@
+{
+  "days": [
+    "Minggu",
+    "Senin",
+    "Selasa",
+    "Rabu",
+    "Kamis",
+    "Jum'at",
+    "Sabtu"
+  ],
+  "months": [
+    "Januari",
+    "Februari",
+    "Maret",
+    "April",
+    "Mei",
+    "Juni",
+    "Juli",
+    "Agustus",
+    "September",
+    "Oktober",
+    "November",
+    "Desember"
+  ],
+  "time_on": "on",
+  "time_format": "H:i",
+  "time_format_sec": "H:i:s",
+  "ago_yesterday": "kemarin %s",
+  "ago_hours": "jam yang lalu",
+  "ago_hour": "sejam yang lalu",
+  "ago_minutes": "menit yang lalu",
+  "ago_minute": "semenit yang lalu",
+  "ago_seconds": "detik yang lalu",
+  "ago_just_now": "baru saja",
+  "ago_long_at": "pukul %s"
+}
